@@ -2,7 +2,7 @@
 
 This Firefox extension translates subtitles on ARD Mediathek videos from German to English and displays them above the original subtitles when the video is paused.
 
-![cover image showing the extension in action](doc/ss.jpg)
+![cover image showing the extension in action](ss.jpg)
 
 ## Features
 - Automatically detects and translates subtitles in ARD Mediathek videos.
