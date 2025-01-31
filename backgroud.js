@@ -1,0 +1,1 @@
+console.log("ARD Mediathek Translator Extension Loaded");
